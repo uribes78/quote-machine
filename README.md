@@ -29,5 +29,5 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Your a free to get the code and make it better
+## You are free to get the code and make it better
 
